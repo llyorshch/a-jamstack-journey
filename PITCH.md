@@ -32,18 +32,18 @@ jorge@ge.org.es
 
 ---
 <!-- _class: lead -->
-# I need a web page
+# "I need a web page"
 
 ![w:600](images/cunyao.gif)
 
 ---
 <!-- _class: lead -->
-# I already have hosting
+# "I already have hosting"
 
 ![ w:750](images/wordpress.png)
 
 ---
-# Done <!--fit-->
+# Done! <!--fit-->
 
 --- 
 <!-- _class: lead -->
@@ -57,8 +57,7 @@ Of course not
 --- 
 
 # What's the matter?
-<!-- _class: subLead -->
-## **YAGNI**  
+![w:1000 center](images/I_ve_got_a_bad_feeling_about_this.gif)
 
 --- 
 
@@ -106,3 +105,34 @@ But also...
 * Scalability
 * Portability
 * Maintainability
+
+---
+
+# Cool. What next?
+
+![w:700 center](images/jamstack_landscape.png)
+
+---
+
+# (Some) Site Generators [(all)](https://jamstack.org/generators/)
+
+|  | Tech | Leitmotif |
+| --- | --- | --- |
+| ![h:65](images/jekyll_logo.svg) | Ruby | The grandfather adopted by GitHub |
+| ![h:65](images/next-js_logo.svg) | Js & React | Almighty Web Dev Framework |
+| ![h:60](images/Gatsby_Logo.svg) | Js & React | Also React but more CMS based |
+| ![h:65](images/Nuxt-js_logo.png) | Js & Vue | For the Vue.js fans |
+| ![h:60](images/hugo-logo.svg) | Go | Batteries included and ready to "go" |
+
+---
+
+# My Choice (YMMV)
+
+![h:200 center](images/hugo-logo.svg)
+
+* I am not a Javascript developer
+* I don't like Ruby (but Jekyll is nice)
+* The learning curve was less overwhelming
+
+---
+# Pros and cons
