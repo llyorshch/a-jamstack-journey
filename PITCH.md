@@ -130,9 +130,55 @@ But also...
 
 ![h:200 center](images/hugo-logo.svg)
 
-* I am not a Javascript developer
+Because
+* I am not a _hardcore_ Javascript developer
 * I don't like Ruby (but Jekyll is nice)
 * The learning curve was less overwhelming
 
 ---
 # Pros and cons
+
+| Pros | Cons |
+| --- | --- |
+| Good documentation | Debugging is not easy |
+| The template language is simple but powerful| The abstractions are not straightforward |
+| The themes are perfect for a quick start | In "Server" mode, the hugo daemon sometimes needs to be restarted |
+| Working with Markdown is great | You have to know the basics of Go |
+| VSCode integration |  |
+
+--- 
+
+# Build & Deploy options
+
+Local environment: `hugo` command
+
+![h:100](images/Netlify_logo.svg)
+
+![h:100](images/Github_Actions_Logo.png) Github Actions
+
+---
+
+# Netlify
+
+![h:500 center](images/Netlify_Deploys.png)
+
+---
+
+# Github Action
+
+![h:500 center](images/Github_Action.png)
+
+---
+<!-- _class: lead -->
+
+# Demo time!
+<!--
+Demo Steps
+
+- Show the structure of the site
+- 
+-->
+---
+<!-- _class: lead -->
+
+# Thanks!
