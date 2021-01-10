@@ -164,6 +164,12 @@ Local environment: `hugo` command
 
 ---
 
+# Netlify CMS
+
+![h:500 center](images/Netlify_CMS.png)
+
+---
+
 # Github Action
 
 ![h:500 center](images/Github_Action.png)
