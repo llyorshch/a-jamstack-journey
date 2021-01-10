@@ -67,3 +67,42 @@ Of course not
 - To deliver HTML, you don't need a LAMP stack
   
 ![w:700 center](images/lamp.svg)
+
+---
+
+# Enter Jamstack
+
+![w:900 center](images/jamstack_acronym.jpg)
+
+---
+# Jamstack Runtime Architecture
+
+![w:600 center](images/jamstack_architecture.png)
+
+---
+# Jamstack Workflow
+
+![w:800 center](images/jamstack_workflow.png)
+
+---
+# Ok but, why Jamstack?
+
+My take on this:
+
+* Better developer experience (Modern tools, Git, Markdown) 🤓
+* No security issues → Peace of mind 💆🏻
+* Damn fast 🚴🏻‍♀️💨
+---
+# Ok but, why Jamstack?
+
+My take on this:
+
+- Better developer experience (Modern tools, Git, Markdown) 🤓
+- No security issues → Peace of mind 💆🏻
+- Damn fast 🚴🏻‍♀️💨
+
+But also...
+
+* Scalability
+* Portability
+* Maintainability
