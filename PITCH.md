@@ -182,7 +182,19 @@ Local environment: `hugo` command
 Demo Steps
 
 - Show the structure of the site
-- 
+  - content
+  - Data
+  - public
+  - static
+  - Template Layouts
+  - Template plugins
+  - Hugo config
+  - Netlify config
+  - Github actions config
+- Local development
+- Netlify build and deploy
+- Github action build and deploy
+- Netlify CMS
 -->
 ---
 <!-- _class: lead -->
