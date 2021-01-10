@@ -11,6 +11,16 @@ marp: true
 section.lead h1 {
   text-align: center;
 }
+section.subLead h2 {
+  text-align: center;
+  font-size: 6em;
+  
+}
+
+img[alt~="center"] {
+  display: block;
+  margin: 0 auto;
+}
 </style>
 
 ![bg left:50% 47%](images/Jamstack_Icon_Original_Transparent.png)
@@ -39,3 +49,21 @@ jorge@ge.org.es
 <!-- _class: lead -->
 
 Of course not
+
+---
+
+# What's the matter?
+
+--- 
+
+# What's the matter?
+<!-- _class: subLead -->
+## **YAGNI**  
+
+--- 
+
+### Why?
+
+- To deliver HTML, you don't need a LAMP stack
+  
+![w:700 center](images/lamp.svg)
